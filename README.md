@@ -63,6 +63,5 @@ gcc Cifra_de_Vigenere.c -o vigenere
 - Versionar e organizar meus estudos no GitHub
 - Criar um repositório fofo e útil ao mesmo tempo 💞
 
-🎀 Feito com carinho por:
-- @yumekojulia
+## 🎀 Feito com carinho por: @yumekojulia
 - 🌙 aprendendo, evoluindo e guardando conhecimento com cuidado.
